@@ -1,0 +1,25 @@
+{
+  "name": "testjest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+     "test": "jest -i" 
+    },
+    "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhoni/TestJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhoni/TestJest/issues"
+  },
+  "homepage": "https://github.com/suhoni/TestJest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
+
